@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+// import 'App.css';
 
 const ReservacionHoteles = () => {
   const [ciudadSeleccionada, setCiudadSeleccionada] = useState('');
@@ -26,7 +27,7 @@ const ReservacionHoteles = () => {
   };
 
   return (
-    <div>
+    <div className='container'>
       <h1>Reservación de Hoteles por Ciudad</h1>
       <form onSubmit={handleSubmit}>
         <label>
