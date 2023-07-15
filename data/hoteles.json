@@ -1,0 +1,20 @@
+{
+  "hoteles": [
+    {
+      "nombre": "Hotel Alpamayo",
+      "ciudad": "Huaraz"
+    },
+    {
+      "nombre": "Hotel bungalou",
+      "ciudad": "Lima"
+    },
+    {
+      "nombre": "Hotel pastoruri",
+      "ciudad": "Huaraz"
+    },
+    {
+      "nombre": "Hotel sheraton",
+      "ciudad": "Lima"
+    }
+  ]
+}
