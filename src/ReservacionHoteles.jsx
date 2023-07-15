@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-// import 'App.css';
+
 
 const ReservacionHoteles = () => {
   const [ciudadSeleccionada, setCiudadSeleccionada] = useState('');
